@@ -1,0 +1,3 @@
+[submodule "robotmaxtron.github.io"]
+	path = robotmaxtron.github.io
+	url = git@github.com:robotmaxtron/robotmaxtron.github.io.git
