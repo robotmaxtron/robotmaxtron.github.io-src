@@ -2,8 +2,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Max Whittingham'
-SITENAME = u'Brought to you by caffeine'
+SITENAME = u'Proudly powered by caffeine'
 SITEURL = ''
+THEME= 'pelican-cait'
 
 PATH = 'content'
 
