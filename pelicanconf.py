@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Max Whittingham'
-SITENAME = u'Proudly powered by caffeine'
+SITENAME = u'Damn the man, support Open and Free Software'
 SITEURL = ''
 THEME= 'pelican-cait'
 
