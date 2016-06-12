@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-EDITOR=/usr/bin/vim
+
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/

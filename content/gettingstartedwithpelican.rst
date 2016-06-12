@@ -2,7 +2,7 @@
 :date: 2015-10-24 20:26
 :tags: python
 :category: python
-:author: Max
+:author: robotmaxtron
 :summary: Getting started with Pelican
 
 After wanting to get started with Pelican for a while, I finally found some time to get it up and running on a Github page thanks to a guide up on Fedora Magazine (http://fedoramagazine.org/make-github-pages-blog-with-pelican/)

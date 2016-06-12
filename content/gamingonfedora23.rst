@@ -2,7 +2,7 @@
 :date: 2015-12-04 21:15
 :tags: steam,gaming,fedora
 :category: gaming
-:author: Max
+:author: robotmaxtron
 :summary: Gaming on Fedora 23
 
 After underwhelming results with the Intel Iris 6100 graphics on an i7 Intel NUC (which I had two die within a month on me) I decided to scrap that plan and build out a modern Mini ITX gaming/workstation rig.

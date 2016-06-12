@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Max Whittingham'
-SITENAME = u'Damn the man, support Open and Free Software'
+AUTHOR = u'robotmaxtron'
+SITENAME = u'http://robotmaxtron.github.io'
 SITEURL = ''
-THEME= 'pelican-cait'
 
 PATH = 'content'
 
@@ -29,14 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-# Add the favicon.ico and robots.txt to content/extra
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
-EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
-}
